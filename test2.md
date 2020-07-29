@@ -1,1 +1,0 @@
-git config 설정수정
