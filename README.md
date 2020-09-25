@@ -17,4 +17,4 @@
 - [메모리관리](전문가를위한CPP/01.메모리관리.md)
 
 #### GIT
-- [gitea_git서버구축](0.gitea_install.md)
+- [gitea_git서버구축](GIT/0.gitea_install.md)
